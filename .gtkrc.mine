@@ -1,0 +1,9 @@
+#gtk-icon-theme-name = "Kreski-Lines"
+#gtk-icon-theme-name = "Faenza"
+gtk-icon-theme-name = "Faenza-Mint"
+#gtk-icon-theme-name = "AwOken"
+#gtk-icon-theme-name = "chrome-like-iconset"
+#gtk-fallback-icon-theme = "gnome"
+gtk-fallback-icon-theme = "Faenza"
+#gtk-theme-name="Nova-Arch"
+gtk-menu-popup-delay = 0

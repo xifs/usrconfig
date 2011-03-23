@@ -1,0 +1,13 @@
+[user]
+	name = vechilee
+	email = lizaifang@gmail.com
+[giggle]
+	main-window-maximized = true
+	main-window-geometry = 0x0+0+0
+	main-window-view = HistoryView
+	history-view-vpane-position = 428
+	file-view-vpane-position = 463
+[core]
+	editor = vim
+[gui]
+	spellingdictionary = none
